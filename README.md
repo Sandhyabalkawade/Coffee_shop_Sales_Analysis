@@ -36,16 +36,6 @@ Analyze customer purchasing behavior
 
 Make recommendations for business improvement
 
-**Tools Used**:
-
-Python (Pandas, Matplotlib, Seaborn)
-
-Jupyter Notebook
-
-Excel (optional)
-
-Power BI / Tableau (optional for visualization)
-
 
 **Key Insights**:
 
