@@ -68,13 +68,11 @@ Sales heatmap by time of day and day of the week
 Customer segmentation (if data available)
 
 
-**Future Improvements**:
+**Future Improvements:**
 
-Incorporate customer demographics (age, gender, etc.)
+Track customer feedback to know which drinks or services need improvement.
 
-Forecast future sales using machine learning
-
-Develop a dashboard for real-time monitoring
+Consider adding seasonal drinks during low sales months to attract new customers.
 
 **Conclusion**:
 
